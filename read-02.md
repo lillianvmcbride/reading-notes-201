@@ -1,16 +1,14 @@
-True or False (Scroll for answers)
+True or false (scroll down for answers)
 
-HTML5 does not support the scrolling attribute. Instead it supports a new attribute called seamless which can be applied to an iframe where scrollbars are not desired.
+In css you can add !important after any property value to indicate that it should be considered more important than other rules that apply to the same element.
 
-Each individual artical and section element can also have its own header and footer element.
+If two css selectors are identical, the first will take precedence over the other.
 
-Visual hierarchy is created using contrasting sizes, colors, and styles.
+In css the background-color and border properties are inherited by child elements.
 
-HTML and CSS both use name value pairs but properties are used in HTML and attributes are used in CSS.
+The forward slash can be used before quotation character to escape that character within a string and prevent the string from ending there.
 
-A script tag in HTML should include "href="folderName/fileName.js."
-
-.
+Creating an array always requires the use of an array constructor.
 
 .
 
@@ -36,26 +34,4 @@ A script tag in HTML should include "href="folderName/fileName.js."
 
 .
 
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-T, T, T, F, F
+. T, F, F, F, F
