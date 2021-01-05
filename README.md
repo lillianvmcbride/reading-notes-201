@@ -8,7 +8,7 @@ In the words of Abraham Lincoln:
 Use `git status` to list all new or modified files that haven't yet been committed  
 
 
-[Reading Notes 1](https://github.com/lillianvmcbride/reading-notes/blob/master/class-01.md)
+[Reading Notes 1](https://github.com/lillianvmcbride/reading-notes-201/blob/master/read-01.md)
 
 [Reading Notes 2](https://github.com/LillyMcBride2/reading-notes/blob/master/class-01.md)
 
